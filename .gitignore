@@ -51,5 +51,8 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+sudheer_submission
+sudheer_submission/
+sudheer_submission\
 # debug information files
 *.dwo
